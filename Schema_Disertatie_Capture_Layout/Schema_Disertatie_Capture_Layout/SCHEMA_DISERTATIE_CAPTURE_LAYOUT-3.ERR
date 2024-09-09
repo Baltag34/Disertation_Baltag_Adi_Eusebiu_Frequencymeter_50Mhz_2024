@@ -1,0 +1,30 @@
+AutoECO Error Report
+FILE-A: C:\ORCAD\ORCAD_16.2\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+FILE-B: C:\USERS\STUDENT\DESKTOP\DISERTATIE_6_IUNIE\SCHEMA_DISERTATIE_CAPTURE_LAYOUT\SCHEMA_DISERTATIE_CAPTURE_LAYOUT.MNL
+ERROR: Pin "11" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "12" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "13" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "14" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "15" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "16" in package CD4017B wasn't defined by footprint AF
+ERROR: No footprint found for comp J1
+ERROR: No footprint found for comp AF1
+ERROR: No footprint found for comp AF3
+ERROR: No footprint found for comp AF2
+ERROR: No footprint found for comp AF7
+ERROR: No footprint found for comp DEC8
+ERROR: No footprint found for comp DEC3
+ERROR: No footprint found for comp AF8
+ERROR: No footprint found for comp AF4
+ERROR: No footprint found for comp DEC2
+ERROR: No footprint found for comp DEC7
+ERROR: No footprint found for comp AF5
+ERROR: No footprint found for comp DEC1
+ERROR: No footprint found for comp J2
+ERROR: No footprint found for comp U2
+ERROR: No footprint found for comp DEC4
+ERROR: No footprint found for comp DEC6
+ERROR: No footprint found for comp DEC5
+ERROR: No footprint found for comp AF6
+Unable to complete ECO due to errors
+25 errors found

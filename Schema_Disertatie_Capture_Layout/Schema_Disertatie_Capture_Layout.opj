@@ -1,0 +1,53 @@
+(ExpressProject "Schema_Disertatie_Capture_Layout"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\librarie_capture.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\schema_disertatie_capture_layout.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "SCHEMA_DISERTATIE_CAPTURE_LAYOUT.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0"))
+  (Folder "Outputs"
+    (File ".\schema_disertatie_capture_layout.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 284"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 26 1204 26 309")
+        (Scroll "801 1399")
+        (Zoom "96")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\STUDENT\DESKTOP\DISERTATIE_4_IUNIE\SCHEMA_DISERTATIE_CAPTURE_LAYOUT\SCHEMA_DISERTATIE_CAPTURE_LAYOUT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

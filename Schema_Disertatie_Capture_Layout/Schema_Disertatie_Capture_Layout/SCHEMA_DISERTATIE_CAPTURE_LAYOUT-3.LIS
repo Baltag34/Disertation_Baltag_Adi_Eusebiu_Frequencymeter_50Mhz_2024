@@ -1,0 +1,152 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_16.2\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+FILE-B: C:\USERS\STUDENT\DESKTOP\DISERTATIE_6_IUNIE\SCHEMA_DISERTATIE_CAPTURE_LAYOUT\SCHEMA_DISERTATIE_CAPTURE_LAYOUT.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint AX/RC05
+Adding footprint RAD/CK05
+Adding package R
+Adding package CD4017B
+Adding package CON2
+Adding package C
+Adding package AFISOR_7_SEGMENTE
+Adding package 74HCT390
+Adding package QT1M
+Adding package CD74HC4511
+Adding package 74HC04D
+Adding package 74HCT00
+Adding package CD4040B
+Adding component R15
+Adding component R3
+Adding component R24
+Adding component R40
+Adding component U3
+ERROR: Pin "11" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "12" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "13" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "14" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "15" in package CD4017B wasn't defined by footprint AF
+ERROR: Pin "16" in package CD4017B wasn't defined by footprint AF
+Adding component J1
+ERROR: No footprint found for comp J1
+Adding component R20
+Adding component R7
+Adding component R16
+Adding component R41
+Adding component R44
+Adding component C7
+Adding component AF1
+ERROR: No footprint found for comp AF1
+Adding component NR7_8
+Found library footprint with same name as part 74HCT390
+Adding component AF3
+ERROR: No footprint found for comp AF3
+Adding component R36
+Adding component AF2
+ERROR: No footprint found for comp AF2
+Adding component R21
+Adding component C12
+Adding component R45
+Adding component C3
+Adding component R42
+Adding component R32
+Adding component R17
+Adding component AF7
+ERROR: No footprint found for comp AF7
+Adding component R37
+Adding component U5
+Found library footprint with same name as part QT1M
+Adding component R33
+Adding component C4
+Adding component DEC8
+ERROR: No footprint found for comp DEC8
+Adding component DEC3
+ERROR: No footprint found for comp DEC3
+Adding component U1
+Found library footprint with same name as part 74HC04D
+Adding component R1
+Adding component AF8
+ERROR: No footprint found for comp AF8
+Adding component R34
+Adding component C2
+Adding component R38
+Adding component AF4
+ERROR: No footprint found for comp AF4
+Adding component R57
+Adding component DEC2
+ERROR: No footprint found for comp DEC2
+Adding component CD3
+Adding component NR5_6
+Adding component R6
+Adding component U4
+Found library footprint with same name as part 74HCT00
+Adding component R35
+Adding component R29
+Adding component C13
+Adding component R4
+Adding component R5
+Adding component C5
+Adding component DEC7
+ERROR: No footprint found for comp DEC7
+Adding component C8
+Adding component C11
+Adding component CD4
+Adding component AF5
+ERROR: No footprint found for comp AF5
+Adding component DEC1
+ERROR: No footprint found for comp DEC1
+Adding component R53
+Adding component R25
+Adding component R30
+Adding component J2
+ERROR: No footprint found for comp J2
+Adding component CD1
+Adding component C1
+Adding component CD2
+Adding component R58
+Adding component R54
+Adding component R11
+Adding component R26
+Adding component R31
+Adding component NR3_4
+Adding component R46
+Adding component R12
+Adding component R27
+Adding component R8
+Adding component R50
+Adding component C6
+Adding component R2
+Adding component R55
+Adding component R47
+Adding component U2
+ERROR: No footprint found for comp U2
+Adding component DEC4
+ERROR: No footprint found for comp DEC4
+Adding component R13
+Adding component R22
+Adding component DEC6
+ERROR: No footprint found for comp DEC6
+Adding component DEC5
+ERROR: No footprint found for comp DEC5
+Adding component R28
+Adding component R48
+Adding component R56
+Adding component R51
+Adding component R9
+Adding component C9
+Adding component C10
+Adding component AF6
+ERROR: No footprint found for comp AF6
+Adding component R18
+Adding component NR1_2
+Adding component R49
+Adding component R10
+Adding component R23
+Adding component R14
+Adding component R39
+Adding component R43
+Adding component U6
+Adding component R19
+Adding component R52
+*EOF*
+Unable to complete ECO due to errors
+25 errors found
